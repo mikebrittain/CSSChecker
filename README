@@ -1,0 +1,3 @@
+CSS Checker
+
+A PHP script for searching your codebase for existing CSS selectors (classes and IDs) to identify possible dead-weight in your style sheets.
